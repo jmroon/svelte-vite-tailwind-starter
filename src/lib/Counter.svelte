@@ -8,7 +8,3 @@
 <button class="bg-red-200 w-96 h-24 rounded-full" on:click={increment}>
   Clicks: {count}
 </button>
-
-<style>
- 
-</style>
